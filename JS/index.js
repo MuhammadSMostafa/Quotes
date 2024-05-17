@@ -8,7 +8,7 @@ var authors = [
     authorImage: "Images/oscar_wide.jpg",
   },
   {
-    authorName: "Frank Zappa",
+    authorName: "― Frank Zappa",
     authorImage: "Images/frank_zappa.jpg",
   },
   {
